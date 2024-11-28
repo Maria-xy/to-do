@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(170, 134, 88);
+}
+
+.container{
+    padding: 60px 200px;
+    width: 100%;
+}
+
+.name{
+    width: 320px;
+    padding: 11px 10px
+}
+
+.caption{
+    width: 320px;
+    padding: 11px 10px
+}
+
+.error{
+    color: red;
+    font-size: 30px;
+    font-style: oblique;
+    padding-top: 10px;
+}
+
+
+
+.postButton{
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(87, 36, 12);
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.updateButton{
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(87, 36, 12);
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+        display: none;
+}
+
+.card{
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 22px;
+    background-color: rgb(252, 253, 153);
+}
+
+.editButton{
+    padding: 7px 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(130, 125, 170);
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.deleteButton{
+    padding: 7px 9px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(231, 95, 95);
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
